@@ -109,6 +109,6 @@ cursor.execute(
 fib_after = [row[0] for row in cursor.fetchall()]
 print("Sequência após deleção:", fib_after)
 
-# 10) Fechar conexão
+# 10) Fechar conexão    
 conn.close()
 print("Conexão SQLite fechada. Script concluído com sucesso!")
