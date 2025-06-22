@@ -29,3 +29,14 @@ CREATE TABLE IF NOT EXISTS SELECAO_TESTE (
 # Salva as alterações no banco
 conn.commit()
 print(" Tabelas criadas com sucesso!")
+
+# 3) Para inserir um candidato na tabela 
+nome= "João Victor Gonçalves Oliveira"
+cursor.execute(
+    "INSERT INTO SELECAO_CANDIDATO (NME_CANDIDATO) VALUES (?);",
+    (nome,)
+)
+conn.commit()
+# Peaga o ID que foi gerado
+id_candidato = cursor.lastrowid
+print(f"Candidato inserido com sucesso! ID_CANDIDATO = {id_candidato}")
