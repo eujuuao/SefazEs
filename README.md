@@ -55,9 +55,9 @@ python selecao_sefaz_es.py
 
 **João Victor Gonçalves Oliveira**
 
-🔗 LinkedIn: joão-victor-oliveira-2440231ab
+🔗 LinkedIn: [joão-victor-oliveira-2440231ab](https://www.linkedin.com/in/jo%C3%A3o-victor-oliveira-2440231ab/)
 
-📧 Email: joaovictorgoncalvsoliveira450@gmail.com
+📧 Email: joaovictorgoncalvesoliveira450@gmail.com
 
 📱 Telefone: (27) 99604‑3451
 
