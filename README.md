@@ -51,7 +51,13 @@ python selecao_sefaz_es.py
 
 ---
 
-## 👤 Autor
-Projeto desenvolvido por **João Oliveira** – **Analista de Desenvolvimento full stack (Directy)**
-Contato: **joao.oliveira@directy.com.br**
+## 👤 Autor & Contato
+
+**João Victor Gonçalves Oliveira**
+
+🔗 LinkedIn: joão-victor-oliveira-2440231ab
+
+📧 Email: joaovictorgoncalvsoliveira450@gmail.com
+
+📱 Telefone: (27) 99604‑3451
 
