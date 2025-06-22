@@ -44,8 +44,7 @@ O script principal (`selecao_sefaz_es.py`) realiza:
    git clone https://github.com/SeuUsuario/SefazES.git
    cd SefazES
 
-**PARA EXECUTAR O SCRIPT** 
-# Windows
+# PARA EXECUTAR O SCRIPT Windows
 py selecao_sefaz_es.py
 # ou
 python selecao_sefaz_es.py
